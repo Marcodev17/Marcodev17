@@ -67,8 +67,3 @@ Atualmente estou aprimorando minhas habilidades em:
 
 ---
 
-## 🧩 Visitantes do perfil
-
-```markdown
-![Visitors](https://komarev.com/ghpvc/?username=SEU-USUARIO&color=blue)
-```
